@@ -13,6 +13,7 @@ uint8_t  sendBuf[12];
 
 void Sbus_Data_Count(u8 *buf);
 void Sbus_Send_Buf(u8 *buf);
+//fist edit
 
  int main(void)
  {	
